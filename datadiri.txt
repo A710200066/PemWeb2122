@@ -1,8 +1,2 @@
-<html>
-  <body>
-    <p>
-    NIM  : A710200066
-    Nama : Ikhsan Fadil
-    </p>
-  </body>
-</html>
+NIM  : A710200066
+Nama : Ikhsan Fadil
